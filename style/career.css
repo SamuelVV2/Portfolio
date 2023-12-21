@@ -1,0 +1,31 @@
+body{
+    font-family: sans-serif;
+    line-height: 1.8;
+    background-color: black;
+}
+h1,h2,h3,h4,h5,h6{
+    font-weight: 800;
+}
+section{
+    padding-top: 170px;
+    padding-left: 30px;
+    color: white;
+    font-size: 30px;
+}
+.intro{
+    margin-bottom: 60px;
+}
+.intro .hr-line{
+    width: 60px;
+    height: 4px;
+    background-color: white;
+    display: inline-block;
+}
+.intro h1{
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+.wrapper{
+    color: white;
+}
